@@ -1,5 +1,5 @@
 #coding:utf-8
-# ff = 'start "" "C:\Program Files (x86)\Tencent\WeChat\WeChat.exe"\n'
+# command to start WeChat App  'start "" "C:\Program Files (x86)\Tencent\WeChat\WeChat.exe"\n'
 
 import os
 
